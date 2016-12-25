@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+ * Learned about the structure of HTML files,IDEs and Text editors that canbe used to create these files,the browsers used to render the HTML files, various HTML tags (like buttons,lists,images,headers,links etc). Also referred to the MDN element reference and learnt about various HTML Tags.
+ * Thanks to the hands on exercises creating HTML documents with various elements has been easy.
+ * Nothing at all ! (Again thaks to the lessons and the MDN element reference)
+ * Did not face any problems/roadblocks when completing the exercies and the projects.
